@@ -29,7 +29,7 @@
 ### <p align="center">🙉 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/GarrysD/count.svg" />
+  <img height="40em" src="https://profile-counter.glitch.me/GarrysD/count.svg" />
 </p>
 
 <!--
