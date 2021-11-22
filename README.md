@@ -16,3 +16,6 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark">
   </a>
 </p>
+<!--
+- [![paypal.me/KharmaGarrys](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/KharmaGarrys)
+-->
