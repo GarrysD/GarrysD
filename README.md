@@ -24,6 +24,14 @@
   <a href="https://discord.gg/VpYP58ZjmD" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="30" width="30"/></a>
 </p>
 
+-----
+
+### <p align="center">🙉 &nbsp;Visiteurs</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/GarrysD/count.svg" />
+</p>
+
 <!--
 - [![paypal.me/KharmaGarrys](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/KharmaGarrys)
 -->
