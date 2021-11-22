@@ -6,13 +6,14 @@
 
 -----
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=onedark"/>
-</p>
+### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+
+### <p align="center"></p>
 
 <p align="center">
-  <a href="https://github.com/GarrysD?tab=repositories">
-    <img  src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark">
+  <a href="https://github.com/GarrysD">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GarrysD&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=react"/>
   </a>
 </p>
 
@@ -26,7 +27,7 @@
 
 -----
 
-### <p align="center">🙉 &nbsp;Visiteurs</p>
+### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
   <img height="40em" src="https://profile-counter.glitch.me/GarrysD/count.svg" />
