@@ -29,17 +29,14 @@
 
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
-<p align="center">
-  <img height="40em" src="https://profile-counter.glitch.me/GarrysD/count.svg" />
-</p>
 
 <p align = 'center'>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelindat&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrysD&layout=compact&theme=github_dark&hide_border=true"
   />
   <br>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=thelindat&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=GarrysD&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
   />
   <br><br>
   <a href="https://discord.gg/hmcmv3P7YW">
@@ -48,13 +45,8 @@
       src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
     />
   </a>
-  <a href="https://ko-fi.com/thelindat">
-    <img
-      alt="Donate"
-      src="https://img.shields.io/badge/kofi-2BB3EE?logo=kofi&logoColor=white&style=for-the-badge"
-    />
-  </a>
 </p>
+
 
 <!--
 - [![paypal.me/KharmaGarrys](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/KharmaGarrys)
