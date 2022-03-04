@@ -39,7 +39,9 @@
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 
-
+<p align="center">
+  <img height="40em" src="https://profile-counter.glitch.me/GarrysD/count.svg" />
+</p>
 
 <!--
 - [![paypal.me/KharmaGarrys](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/KharmaGarrys)
